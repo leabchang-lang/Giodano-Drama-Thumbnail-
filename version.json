@@ -1,9 +1,11 @@
 {
   "app_name": "Giodano Drama Thumbnail",
-  "version": "1.0.4",
-  "release_date": "2026-09-21",
-  "download_url": "https://github.com/leabchang-lang/Giodano-Poster-AI-PRO/releases/download/v1.0.4/Giodano_Drama_Thumbnail_v1.0.4_Installer.exe",
+  "version": "1.0.5",
+  "release_date": "2026-10-23",
+  "download_url": "https://github.com/leabchang-lang/Giodano_Drama_Thumbnail/releases/download/v1.0.5/Giodano_Drama_Thumbnail_v1.0.5_Installer.exe",
   "changelog": [
+    "Bumped version configuration to v1.0.5",
+    "UI refinement: updated label names and streamlined interface controls",
     "High-Precision 2D Isotropic Inpainting for Clean Background and foreign title eraser",
     "Complete removal of foreign typography overlapping swords and characters with Zero Blur",
     "Fixed ROI zone preservation when moving 3D title to the top",
