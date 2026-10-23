@@ -1,24 +1,13 @@
 {
   "app_name": "Giodano Drama Thumbnail",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "release_date": "2026-10-23",
-  "download_url": "https://github.com/leabchang-lang/Giodano-Drama-Thumbnail-/releases/download/v1.0.6/Giodano_Drama_Thumbnail_v1.0.6_Installer.exe",
+  "download_url": "https://github.com/leabchang-lang/Giodano-Drama-Thumbnail-/releases/download/v1.0.7/Giodano_Drama_Thumbnail_v1.0.7_Installer.exe",
   "changelog": [
-    "Bumped version configuration to v1.0.6",
-    "Bumped version configuration to v1.0.5",
-    "UI refinement: updated label names and streamlined interface controls",
-    "High-Precision 2D Isotropic Inpainting for Clean Background and foreign title eraser",
-    "Complete removal of foreign typography overlapping swords and characters with Zero Blur",
-    "Fixed ROI zone preservation when moving 3D title to the top",
-    "Bumped version configuration to v1.0.4",
-    "Bumped version configuration to v1.0.3",
-    "Updated application branding and logo icon",
-    "Bumped version configuration to v1.0.2",
-    "Initial release of Giodano Drama Thumbnail v1.0.1",
-    "Support for 3D Khmer Gold & Dragon typography styling",
-    "Smart AI Title Synthesizer and localized adaptations",
-    "ROI Title Zone interactive draggable canvas",
-    "Integrated Gemini API support with Gemini 2.0 / Flash models",
-    "Native Windows desktop app powered by PyQt5 and QWebEngineView"
+    "Silent background update with automatic installation (Zero UAC elevation popup)",
+    "Modern Glassmorphic Dark UI for update downloader with glowing pulsing orb",
+    "60fps smooth interpolated progress bar with animated shimmer light sweep",
+    "Live download data metrics (real-time MB progress and speed tracking)",
+    "UI refinement: updated label names and streamlined interface controls"
   ]
 }
