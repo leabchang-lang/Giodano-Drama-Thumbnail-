@@ -1,13 +1,13 @@
 {
   "app_name": "Giodano Drama Thumbnail",
-  "version": "1.0.7",
-  "release_date": "2026-10-23",
-  "download_url": "https://github.com/leabchang-lang/Giodano-Drama-Thumbnail-/releases/download/v1.0.7/Giodano_Drama_Thumbnail_v1.0.7_Installer.exe",
+  "version": "1.0.8",
+  "release_date": "2026-10-24",
+  "download_url": "https://github.com/leabchang-lang/Giodano-Drama-Thumbnail-/releases/download/v1.0.8/Giodano_Drama_Thumbnail_v1.0.8_Installer.exe",
   "changelog": [
-    "Silent background update with automatic installation (Zero UAC elevation popup)",
-    "Modern Glassmorphic Dark UI for update downloader with glowing pulsing orb",
-    "60fps smooth interpolated progress bar with animated shimmer light sweep",
-    "Live download data metrics (real-time MB progress and speed tracking)",
+    "Khmer Title Background: Added 6 styles (Soft Dark Shadow, Black Gradient, Gold Gradient, Smoke Glow, Rounded Backplate, None) for artifact concealment",
+    "Adjustable background controls: opacity, blur, spread padding, corner radius, gradient intensity, and horizontal/vertical offsets",
+    "Independent layer compositing: base poster, cleaned background, title concealment shadow, and sharp Khmer typography",
+    "Dynamic title geometry tracking with real-time preview and 1080x1920 (9:16) export parity",
     "UI refinement: updated label names and streamlined interface controls"
   ]
 }
